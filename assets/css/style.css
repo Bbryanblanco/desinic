@@ -2,13 +2,6 @@
   #style.css
 \*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
 
 /*-----------------------------------*\
   #CUSTOM PROPERTY
@@ -143,6 +136,7 @@ body {
   background-color: var(--white);
   color: var(--purple-navy);
   font-size: 1.6rem;
+  scroll-behavior: smooth;
 }
 
 ::-webkit-scrollbar { width: 10px; }
